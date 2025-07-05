@@ -14,7 +14,7 @@ place in the main folder the file with name
 and then open the terminal and 
 run 
 
-"java -jar M_System_JVM.ja"
+"java -jar M_System_JVM.jar"
 
 no source code for this
 
