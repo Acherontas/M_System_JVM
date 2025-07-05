@@ -1,0 +1,222 @@
+acherontas@raspberrypi:~/Desktop/New folder (2) $ java -jar M_System_JVM.jar 
+use 0=default 1=for analysis 2 for ur own table array
+if u press 2 15 tries will be done
+1
+bypass middle numbers show only results 2=show results 3=not show results 
+2
+enter a number 
+2785
+column --> 1=1 <--key to press 2=2 3=4 4=8 5=7 6=5
+for number 
+enter the first digit
+4
+ur first digit is 4
+the size is 3
+
+--------------------------------------------------------------
+calculation part byo with 2785
+temp number 2785 char cnt 4
+       Internal Calculation with 2785  2  7  8  5         ----> 22
+ leaving calculation part byo with 22
+ Reporting Sum -----> 22
+ ------------> main number is 22
+
+--------------------------------------------------------------
+calculation part byo with 22
+temp number 22 char cnt 2
+       Internal Calculation with 22  2  2         ----> 4
+ leaving calculation part byo with 4
+ Reporting Sum -----> 4
+reporting numbers 0 |--| 
+
+---------------------------------------------------------------------------
+ -------------> final main number to continue is 4 <-------------
+---------------------------------------------------------------------------
+
+
+Clearing Temp Clearing done
+entering calculation big
+with number 2785 and size of 4
+temp number 2785 char cnt 4
+--------------> 5428 as the new secondary <-------- 
+
+--------------------------------------------------------------
+calculation part byo with 5428
+temp number 5428 char cnt 4
+       Internal Calculation with 5428  5  4  2  8         ----> 19
+ leaving calculation part byo with 19
+ Reporting Sum -----> 19
+l is 19
+
+--------------------------------------------------------------
+calculation part byo with 19
+temp number 19 char cnt 2
+       Internal Calculation with 19  1  9         ----> 10
+ leaving calculation part byo with 10
+ Reporting Sum -----> 10
+
+--------------------------------------------------------------
+calculation part byo with 10
+temp number 10 char cnt 2
+       Internal Calculation with 10  1  0         ----> 1
+ leaving calculation part byo with 1
+ Reporting Sum -----> 1
+reporting numbers 1 |--| 0 |--| 
+
+---------------------------------------------------------------------------------------
+ -------------> final secondary number as main to continue is 1 <-------------
+---------------------------------------------------------------------------------------
+
+Main cin number 4
+finding the main
+
+Reporting M-ofX- System as: M3
+
+passing position  3 with sum  1
+
+------------
+three 4
+------------
+
+main number possible result sum is 4
+
+RESULT IS SAME!!!
+
+reporting analysis with number 2785
+Enter steps to stop default is 2 or 4 try 4 
+4
+entering calculation big
+with number 2785 and size of 4
+temp number 2785 char cnt 4
+
+--------------------------------------------------------------
+calculation part byo with 5428
+temp number 5428 char cnt 4
+       Internal Calculation with 5428  5  4  2  8         ----> 19
+ leaving calculation part byo with 19
+ Reporting Sum -----> 19
+
+--------------------------------------------------------------
+calculation part byo with 19
+temp number 19 char cnt 2
+       Internal Calculation with 19  1  9         ----> 10
+ leaving calculation part byo with 10
+ Reporting Sum -----> 10
+
+--------------------------------------------------------------
+calculation part byo with 10
+temp number 10 char cnt 2
+       Internal Calculation with 10  1  0         ----> 1
+ leaving calculation part byo with 1
+ Reporting Sum -----> 1
+
+----------------
+5428 
+----------------
+
+entering calculation big
+with number 5428 and size of 4
+temp number 5428 char cnt 4
+
+--------------------------------------------------------------
+calculation part byo with 8152
+temp number 8152 char cnt 4
+       Internal Calculation with 8152  8  1  5  2         ----> 16
+ leaving calculation part byo with 16
+ Reporting Sum -----> 16
+
+--------------------------------------------------------------
+calculation part byo with 16
+temp number 16 char cnt 2
+       Internal Calculation with 16  1  6         ----> 7
+ leaving calculation part byo with 7
+ Reporting Sum -----> 7
+
+----------------
+8152 
+----------------
+
+entering calculation big
+with number 8152 and size of 4
+temp number 8152 char cnt 4
+
+--------------------------------------------------------------
+calculation part byo with 2785
+temp number 2785 char cnt 4
+       Internal Calculation with 2785  2  7  8  5         ----> 22
+ leaving calculation part byo with 22
+ Reporting Sum -----> 22
+
+--------------------------------------------------------------
+calculation part byo with 22
+temp number 22 char cnt 2
+       Internal Calculation with 22  2  2         ----> 4
+ leaving calculation part byo with 4
+ Reporting Sum -----> 4
+
+----------------
+2785 
+----------------
+
+entering calculation big
+with number 2785 and size of 4
+temp number 2785 char cnt 4
+
+--------------------------------------------------------------
+calculation part byo with 5428
+temp number 5428 char cnt 4
+       Internal Calculation with 5428  5  4  2  8         ----> 19
+ leaving calculation part byo with 19
+ Reporting Sum -----> 19
+
+--------------------------------------------------------------
+calculation part byo with 19
+temp number 19 char cnt 2
+       Internal Calculation with 19  1  9         ----> 10
+ leaving calculation part byo with 10
+ Reporting Sum -----> 10
+
+--------------------------------------------------------------
+calculation part byo with 10
+temp number 10 char cnt 2
+       Internal Calculation with 10  1  0         ----> 1
+ leaving calculation part byo with 1
+ Reporting Sum -----> 1
+
+----------------
+5428 
+----------------
+
+entering calculation big
+with number 5428 and size of 4
+temp number 5428 char cnt 4
+
+--------------------------------------------------------------
+calculation part byo with 8152
+temp number 8152 char cnt 4
+       Internal Calculation with 8152  8  1  5  2         ----> 16
+ leaving calculation part byo with 16
+ Reporting Sum -----> 16
+
+--------------------------------------------------------------
+calculation part byo with 16
+temp number 16 char cnt 2
+       Internal Calculation with 16  1  6         ----> 7
+ leaving calculation part byo with 7
+ Reporting Sum -----> 7
+
+----------------
+8152 
+----------------
+
+Getting 9 out of 0 and reverse
+| main number sum 4
+Numbers returned in order and the sums of them
+
+2785 ------> 4
+5428.0 ------> 1
+8152.0 ------> 7
+2785.0 ------> 4
+5428.0 ------> 1
+8152.0 ------> 7
+0.0 ------> 0
