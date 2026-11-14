@@ -19,6 +19,8 @@ run
 no source code for this i change my mind i just upload it
 
 
+For the fix download ---> https://netbeans.apache.org/front/main/download/
+
 for any information
 please dont hesitate to contact me 
 at acherontia.myosotis@gmail.com
