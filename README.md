@@ -34,6 +34,7 @@ OpenJDK Runtime Environment Temurin-26.0.2+10 (build 26.0.2+10)
 OpenJDK 64-Bit Server VM Temurin-26.0.2+10 (build 26.0.2+10, mixed mode, sharing)
 
 
+video of the fix ---> https://www.youtube.com/watch?v=3yRdVlNj4xI
 
 for any information
 please dont hesitate to contact me 
