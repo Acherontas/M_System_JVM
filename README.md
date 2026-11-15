@@ -2,20 +2,19 @@
 A...in_most_cases...prediction System on sum digits in sequence numbers
 
 
-Instructions:
+Instructions-Οδηγίες:
 
-1)Create a folder 
+1)Create a folder ||  Δημιουργήστε εναν φάκελο
 
-2)Create a sub-folder with name lib
-copy and paste the files with name
+2)Create a sub-folder with name lib || Δημιουργήστε εναν υποφάκελο με το όνομα lib
+copy and paste the files with name || Aντιγραψτε το "MSDTB_jvm.jar" και "Java_Byo_Static_Lib.jar" στον φάκελο lib
 "MSDTB_jvm.jar"
 and
 "Java_Byo_Static_Lib.jar"
-place in the main folder the file with name
+place in the main folder the file with name || Αντιγράψτε στον κυρίως φάκελο το "M_System_JVM.jar"
 "M_System_JVM.jar"
 
-and then open the terminal and 
-run 
+and then open the terminal and run || Στην συνέχεια ανοίξτε ενα τερματικο και τρέξτε 
 
 "java -jar M_System_JVM.jar"
 
