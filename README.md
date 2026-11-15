@@ -1,9 +1,12 @@
 # M_System_JVM
 A...in_most_cases...prediction System on sum digits in sequence numbers
 
-Instructions
-Create a folder 
-Create a sub-folder with name lib
+
+Instructions:
+
+1)Create a folder 
+
+2)Create a sub-folder with name lib
 copy and paste the files with name
 "MSDTB_jvm.jar"
 and
@@ -17,6 +20,7 @@ run
 "java -jar M_System_JVM.jar"
 
 
+----------------------------------------------------------------------------------------------------------
 
 For the fix download ---> https://netbeans.apache.org/front/main/download/
 
@@ -34,6 +38,8 @@ OpenJDK 64-Bit Server VM Temurin-26.0.2+10 (build 26.0.2+10, mixed mode, sharing
 
 
 video of the fix ---> https://www.youtube.com/watch?v=3yRdVlNj4xI
+
+----------------------------------------------------------------------------------------------------------
 
 for any information
 please dont hesitate to contact me 
