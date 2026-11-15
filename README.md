@@ -16,7 +16,6 @@ run
 
 "java -jar M_System_JVM.jar"
 
-no source code for this i change my mind i just upload it
 
 
 For the fix download ---> https://netbeans.apache.org/front/main/download/
@@ -41,4 +40,4 @@ please dont hesitate to contact me
 at acherontia.myosotis@gmail.com
 
 u are not able to re-distribute or change any part of the code 
-γιατί έτσι θέλω
+
