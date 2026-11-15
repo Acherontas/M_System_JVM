@@ -21,6 +21,8 @@ no source code for this i change my mind i just upload it
 
 For the fix download ---> https://netbeans.apache.org/front/main/download/
 
+Fix include the 9 sum of digits and some fixes to analysis of number i remove the double 
+
 for any information
 please dont hesitate to contact me 
 at acherontia.myosotis@gmail.com
